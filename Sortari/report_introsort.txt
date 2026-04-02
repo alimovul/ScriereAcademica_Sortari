@@ -1,0 +1,173 @@
+[vector] ../tests/test1.in -> 1403 ns  ~0.000001403 sec
+[array ] ../tests/test1.in -> 778 ns  ~0.000000778 sec
+
+[vector] ../tests/test2.in -> 456 ns  ~0.000000456 sec
+[array ] ../tests/test2.in -> 189 ns  ~0.000000189 sec
+
+[vector] ../tests/test3.in -> 127191 ns  ~0.000127191 sec
+[array ] ../tests/test3.in -> 66457 ns  ~0.000066457 sec
+
+[vector] ../tests/test4.in -> 51898 ns  ~0.000051898 sec
+[array ] ../tests/test4.in -> 18945 ns  ~0.000018945 sec
+
+[vector] ../tests/test5.in -> 815403 ns  ~0.000815403 sec
+[array ] ../tests/test5.in -> 409524 ns  ~0.000409524 sec
+
+[vector] ../tests/test6.in -> 574259 ns  ~0.000574259 sec
+[array ] ../tests/test6.in -> 213041 ns  ~0.000213041 sec
+
+[vector] ../tests/test7.in -> 1720106 ns  ~0.001720106 sec
+[array ] ../tests/test7.in -> 792450 ns  ~0.000792450 sec
+
+[vector] ../tests/test8.in -> 3393970 ns  ~0.003393970 sec
+[array ] ../tests/test8.in -> 1175022 ns  ~0.001175022 sec
+
+[vector] ../tests/test9.in -> 19522706 ns  ~0.019522706 sec
+[array ] ../tests/test9.in -> 10452878 ns  ~0.010452878 sec
+
+[vector] ../tests/test10.in -> 41295707 ns  ~0.041295707 sec
+[array ] ../tests/test10.in -> 22239432 ns  ~0.022239432 sec
+
+[vector] ../tests/test11.in -> 35980819 ns  ~0.035980819 sec
+[array ] ../tests/test11.in -> 13347299 ns  ~0.013347299 sec
+
+[vector] ../tests/test12.in -> 223772161 ns  ~0.223772161 sec
+[array ] ../tests/test12.in -> 119150994 ns  ~0.119150994 sec
+
+[vector] ../tests/test13.in -> 2597859382 ns  ~2.597859382 sec
+[array ] ../tests/test13.in -> 1384210767 ns  ~1.384210767 sec
+
+[vector] ../tests/test14.in -> 26765031713 ns  ~26.765031713 sec
+[array ] ../tests/test14.in -> 14174449120 ns  ~14.174449120 sec
+
+[vector] ../tests/test15.in -> 142710137963 ns  ~142.710137963 sec
+[array ] ../tests/test15.in -> 71764203924 ns  ~71.764203924 sec
+
+[vector] ../tests/test16.in -> 301 ns  ~0.000000301 sec
+[array ] ../tests/test16.in -> 108 ns  ~0.000000108 sec
+
+[vector] ../tests/test17.in -> 2449 ns  ~0.000002449 sec
+[array ] ../tests/test17.in -> 1003 ns  ~0.000001003 sec
+
+[vector] ../tests/test18.in -> 4834 ns  ~0.000004834 sec
+[array ] ../tests/test18.in -> 2560 ns  ~0.000002560 sec
+
+[vector] ../tests/test19.in -> 5011 ns  ~0.000005011 sec
+[array ] ../tests/test19.in -> 2236 ns  ~0.000002236 sec
+
+[vector] ../tests/test20.in -> 240249 ns  ~0.000240249 sec
+[array ] ../tests/test20.in -> 138059 ns  ~0.000138059 sec
+
+[vector] ../tests/test21.in -> 102044 ns  ~0.000102044 sec
+[array ] ../tests/test21.in -> 41121 ns  ~0.000041121 sec
+
+[vector] ../tests/test22.in -> 106254 ns  ~0.000106254 sec
+[array ] ../tests/test22.in -> 198897 ns  ~0.000198897 sec
+
+[vector] ../tests/test23.in -> 1141034 ns  ~0.001141034 sec
+[array ] ../tests/test23.in -> 675512 ns  ~0.000675512 sec
+
+[vector] ../tests/test24.in -> 854719 ns  ~0.000854719 sec
+[array ] ../tests/test24.in -> 259175 ns  ~0.000259175 sec
+
+[vector] ../tests/test25.in -> 3473940 ns  ~0.003473940 sec
+[array ] ../tests/test25.in -> 1859514 ns  ~0.001859514 sec
+
+[vector] ../tests/test26.in -> 1406483 ns  ~0.001406483 sec
+[array ] ../tests/test26.in -> 678990 ns  ~0.000678990 sec
+
+[vector] ../tests/test27.in -> 1403299 ns  ~0.001403299 sec
+[array ] ../tests/test27.in -> 443418 ns  ~0.000443418 sec
+
+[vector] ../tests/test28.in -> 9064399 ns  ~0.009064399 sec
+[array ] ../tests/test28.in -> 4934355 ns  ~0.004934355 sec
+
+[vector] ../tests/test29.in -> 7349271 ns  ~0.007349271 sec
+[array ] ../tests/test29.in -> 2217353 ns  ~0.002217353 sec
+
+[vector] ../tests/test30.in -> 15533946 ns  ~0.015533946 sec
+[array ] ../tests/test30.in -> 5476292 ns  ~0.005476292 sec
+
+[vector] ../tests/test31.in -> 15654767 ns  ~0.015654767 sec
+[array ] ../tests/test31.in -> 5071007 ns  ~0.005071007 sec
+
+[vector] ../tests/test32.in -> 16106705 ns  ~0.016106705 sec
+[array ] ../tests/test32.in -> 7519723 ns  ~0.007519723 sec
+
+[vector] ../tests/test33.in -> 38932548 ns  ~0.038932548 sec
+[array ] ../tests/test33.in -> 22839395 ns  ~0.022839395 sec
+
+[vector] ../tests/test34.in -> 14225079 ns  ~0.014225079 sec
+[array ] ../tests/test34.in -> 6380487 ns  ~0.006380487 sec
+
+[vector] ../tests/test35.in -> 107407978 ns  ~0.107407978 sec
+[array ] ../tests/test35.in -> 60233778 ns  ~0.060233778 sec
+
+[vector] ../tests/test36.in -> 40239249 ns  ~0.040239249 sec
+[array ] ../tests/test36.in -> 15683899 ns  ~0.015683899 sec
+
+[vector] ../tests/test37.in -> 222170145 ns  ~0.222170145 sec
+[array ] ../tests/test37.in -> 124541752 ns  ~0.124541752 sec
+
+[vector] ../tests/test38.in -> 668442 ns  ~0.000668442 sec
+[array ] ../tests/test38.in -> 249007 ns  ~0.000249007 sec
+
+[vector] ../tests/test39.in -> 740451 ns  ~0.000740451 sec
+[array ] ../tests/test39.in -> 328872 ns  ~0.000328872 sec
+
+[vector] ../tests/test40.in -> 937883 ns  ~0.000937883 sec
+[array ] ../tests/test40.in -> 377456 ns  ~0.000377456 sec
+
+[vector] ../tests/test41.in -> 8367339 ns  ~0.008367339 sec
+[array ] ../tests/test41.in -> 2969866 ns  ~0.002969866 sec
+
+[vector] ../tests/test42.in -> 8923294 ns  ~0.008923294 sec
+[array ] ../tests/test42.in -> 3801549 ns  ~0.003801549 sec
+
+[vector] ../tests/test43.in -> 42157780 ns  ~0.042157780 sec
+[array ] ../tests/test43.in -> 17505622 ns  ~0.017505622 sec
+
+[vector] ../tests/test44.in -> 120416 ns  ~0.000120416 sec
+[array ] ../tests/test44.in -> 67070 ns  ~0.000067070 sec
+
+[vector] ../tests/test45.in -> 773971 ns  ~0.000773971 sec
+[array ] ../tests/test45.in -> 411569 ns  ~0.000411569 sec
+
+[vector] ../tests/test46.in -> 319777 ns  ~0.000319777 sec
+[array ] ../tests/test46.in -> 115238 ns  ~0.000115238 sec
+
+[vector] ../tests/test47.in -> 714576 ns  ~0.000714576 sec
+[array ] ../tests/test47.in -> 297834 ns  ~0.000297834 sec
+
+[vector] ../tests/test48.in -> 9111606 ns  ~0.009111606 sec
+[array ] ../tests/test48.in -> 4855843 ns  ~0.004855843 sec
+
+[vector] ../tests/test49.in -> 5912 ns  ~0.000005912 sec
+[array ] ../tests/test49.in -> 2136 ns  ~0.000002136 sec
+
+[vector] ../tests/test50.in -> 12396 ns  ~0.000012396 sec
+[array ] ../tests/test50.in -> 4196 ns  ~0.000004196 sec
+
+[vector] ../tests/test51.in -> 22310 ns  ~0.000022310 sec
+[array ] ../tests/test51.in -> 6979 ns  ~0.000006979 sec
+
+[vector] ../tests/test52.in -> 24305 ns  ~0.000024305 sec
+[array ] ../tests/test52.in -> 7197 ns  ~0.000007197 sec
+
+[vector] ../tests/test53.in -> 81731 ns  ~0.000081731 sec
+[array ] ../tests/test53.in -> 24068 ns  ~0.000024068 sec
+
+[vector] ../tests/test54.in -> 571343 ns  ~0.000571343 sec
+[array ] ../tests/test54.in -> 170716 ns  ~0.000170716 sec
+
+Lipseste testul: ../tests/test55.in
+Rezumat final:
+vector total: 172969263373 ns  ~172.969263373 sec
+array  total: 87781124672 ns  ~87.781124672 sec
+
+Teste castigate ca timp:
+vector: 1
+array : 53
+
+Cel mai rapid per general: array
+Cel mai multe teste castigate: array

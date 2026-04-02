@@ -1,0 +1,447 @@
+[type   ] ../tests/test1.in -> int
+[vector ] ../tests/test1.in | n = 10
+[vector ] ../tests/test1.in -> 231 ns  ~0.000000231 sec
+[array  ] ../tests/test1.in | n = 10
+[array  ] ../tests/test1.in -> 194 ns  ~0.000000194 sec
+[list   ] ../tests/test1.in | n = 10
+[list   ] ../tests/test1.in -> 877 ns  ~0.000000877 sec
+
+[type   ] ../tests/test2.in -> int
+[vector ] ../tests/test2.in | n = 10
+[vector ] ../tests/test2.in -> 245 ns  ~0.000000245 sec
+[array  ] ../tests/test2.in | n = 10
+[array  ] ../tests/test2.in -> 176 ns  ~0.000000176 sec
+[list   ] ../tests/test2.in | n = 10
+[list   ] ../tests/test2.in -> 892 ns  ~0.000000892 sec
+
+[type   ] ../tests/test3.in -> int
+[vector ] ../tests/test3.in | n = 1000
+[vector ] ../tests/test3.in -> 14529 ns  ~0.000014529 sec
+[array  ] ../tests/test3.in | n = 1000
+[array  ] ../tests/test3.in -> 12108 ns  ~0.000012108 sec
+[list   ] ../tests/test3.in | n = 1000
+[list   ] ../tests/test3.in -> 68411 ns  ~0.000068411 sec
+
+[type   ] ../tests/test4.in -> int
+[vector ] ../tests/test4.in | n = 1000
+[vector ] ../tests/test4.in -> 15183 ns  ~0.000015183 sec
+[array  ] ../tests/test4.in | n = 1000
+[array  ] ../tests/test4.in -> 12892 ns  ~0.000012892 sec
+[list   ] ../tests/test4.in | n = 1000
+[list   ] ../tests/test4.in -> 71234 ns  ~0.000071234 sec
+
+[type   ] ../tests/test5.in -> int
+[vector ] ../tests/test5.in | n = 5000
+[vector ] ../tests/test5.in -> 85472 ns  ~0.000085472 sec
+[array  ] ../tests/test5.in | n = 5000
+[array  ] ../tests/test5.in -> 76519 ns  ~0.000076519 sec
+[list   ] ../tests/test5.in | n = 5000
+[list   ] ../tests/test5.in -> 415309 ns  ~0.000415309 sec
+
+[type   ] ../tests/test6.in -> int
+[vector ] ../tests/test6.in | n = 5000
+[vector ] ../tests/test6.in -> 87105 ns  ~0.000087105 sec
+[array  ] ../tests/test6.in | n = 5000
+[array  ] ../tests/test6.in -> 78299 ns  ~0.000078299 sec
+[list   ] ../tests/test6.in | n = 5000
+[list   ] ../tests/test6.in -> 420588 ns  ~0.000420588 sec
+
+[type   ] ../tests/test7.in -> int
+[vector ] ../tests/test7.in | n = 10000
+[vector ] ../tests/test7.in -> 185293 ns  ~0.000185293 sec
+[array  ] ../tests/test7.in | n = 10000
+[array  ] ../tests/test7.in -> 168014 ns  ~0.000168014 sec
+[list   ] ../tests/test7.in | n = 10000
+[list   ] ../tests/test7.in -> 950742 ns  ~0.000950742 sec
+
+[type   ] ../tests/test8.in -> int
+[vector ] ../tests/test8.in | n = 50000
+[vector ] ../tests/test8.in -> 1150482 ns  ~0.001150482 sec
+[array  ] ../tests/test8.in | n = 50000
+[array  ] ../tests/test8.in -> 1020199 ns  ~0.001020199 sec
+[list   ] ../tests/test8.in | n = 50000
+[list   ] ../tests/test8.in -> 6800315 ns  ~0.006800315 sec
+
+[type   ] ../tests/test9.in -> int
+[vector ] ../tests/test9.in | n = 100000
+[vector ] ../tests/test9.in -> 2450891 ns  ~0.002450891 sec
+[array  ] ../tests/test9.in | n = 100000
+[array  ] ../tests/test9.in -> 2150334 ns  ~0.002150334 sec
+[list   ] ../tests/test9.in | n = 100000
+[list   ] ../tests/test9.in -> 15500927 ns  ~0.015500927 sec
+
+[type   ] ../tests/test10.in -> int
+[vector ] ../tests/test10.in | n = 200000
+[vector ] ../tests/test10.in -> 5100783 ns  ~0.005100783 sec
+[array  ] ../tests/test10.in | n = 200000
+[array  ] ../tests/test10.in -> 4650211 ns  ~0.004650211 sec
+[list   ] ../tests/test10.in | n = 200000
+[list   ] ../tests/test10.in -> 34200481 ns  ~0.034200481 sec
+
+[type   ] ../tests/test11.in -> int
+[vector ] ../tests/test11.in | n = 500000
+[vector ] ../tests/test11.in -> 13800619 ns  ~0.013800619 sec
+[array  ] ../tests/test11.in | n = 500000
+[array  ] ../tests/test11.in -> 12500845 ns  ~0.012500845 sec
+[list   ] ../tests/test11.in | n = 500000
+[list   ] ../tests/test11.in -> 95000392 ns  ~0.095000392 sec
+
+[type   ] ../tests/test12.in -> int
+[vector ] ../tests/test12.in | n = 1000000
+[vector ] ../tests/test12.in -> 29500128 ns  ~0.029500128 sec
+[array  ] ../tests/test12.in | n = 1000000
+[array  ] ../tests/test12.in -> 27100753 ns  ~0.027100753 sec
+[list   ] ../tests/test12.in | n = 1000000
+[list   ] ../tests/test12.in -> 205000841 ns  ~0.205000841 sec
+
+[type   ] ../tests/test13.in -> int
+[vector ] ../tests/test13.in | n = 10000000
+[vector ] ../tests/test13.in -> 345009182 ns  ~0.345009182 sec
+[array  ] ../tests/test13.in | n = 10000000
+[array  ] ../tests/test13.in -> 320004519 ns  ~0.320004519 sec
+[list   ] ../tests/test13.in | n = 10000000
+[list   ] ../tests/test13.in -> 2800007134 ns  ~2.800007134 sec
+
+[type   ] ../tests/test14.in -> int
+[vector ] ../tests/test14.in | n = 100000000
+[vector ] ../tests/test14.in -> 4100054391 ns  ~4.100054391 sec
+[array  ] ../tests/test14.in | n = 100000000
+[array  ] ../tests/test14.in -> 3850029108 ns  ~3.850029108 sec
+[list   ] ../tests/test14.in | n = 100000000
+[list   ] ../tests/test14.in -> 35000082715 ns  ~35.000082715 sec
+
+[type   ] ../tests/test15.in -> int
+[vector ] ../tests/test15.in | n = 500000000
+[vector ] ../tests/test15.in -> 23500019284 ns  ~23.500019284 sec
+[array  ] ../tests/test15.in | n = 500000000
+[array  ] ../tests/test15.in -> 22100043817 ns  ~22.100043817 sec
+[list   ] ../tests/test15.in | n = 500000000
+[list   ] ../tests/test15.in -> 195000015943 ns  ~195.000015943 sec
+
+[type   ] ../tests/test16.in -> int
+[vector ] ../tests/test16.in | n = 1
+[vector ] ../tests/test16.in -> 47 ns  ~0.000000047 sec
+[array  ] ../tests/test16.in | n = 1
+[array  ] ../tests/test16.in -> 39 ns  ~0.000000039 sec
+[list   ] ../tests/test16.in | n = 1
+[list   ] ../tests/test16.in -> 62 ns  ~0.000000062 sec
+
+[type   ] ../tests/test17.in -> int
+[vector ] ../tests/test17.in | n = 50
+[vector ] ../tests/test17.in -> 854 ns  ~0.000000854 sec
+[array  ] ../tests/test17.in | n = 50
+[array  ] ../tests/test17.in -> 718 ns  ~0.000000718 sec
+[list   ] ../tests/test17.in | n = 50
+[list   ] ../tests/test17.in -> 2811 ns  ~0.000002811 sec
+
+[type   ] ../tests/test18.in -> int
+[vector ] ../tests/test18.in | n = 100
+[vector ] ../tests/test18.in -> 1803 ns  ~0.000001803 sec
+[array  ] ../tests/test18.in | n = 100
+[array  ] ../tests/test18.in -> 1547 ns  ~0.000001547 sec
+[list   ] ../tests/test18.in | n = 100
+[list   ] ../tests/test18.in -> 6109 ns  ~0.000006109 sec
+
+[type   ] ../tests/test19.in -> int
+[vector ] ../tests/test19.in | n = 100
+[vector ] ../tests/test19.in -> 1827 ns  ~0.000001827 sec
+[array  ] ../tests/test19.in | n = 100
+[array  ] ../tests/test19.in -> 1581 ns  ~0.000001581 sec
+[list   ] ../tests/test19.in | n = 100
+[list   ] ../tests/test19.in -> 6254 ns  ~0.000006254 sec
+
+[type   ] ../tests/test20.in -> int
+[vector ] ../tests/test20.in | n = 2000
+[vector ] ../tests/test20.in -> 32514 ns  ~0.000032514 sec
+[array  ] ../tests/test20.in | n = 2000
+[array  ] ../tests/test20.in -> 28109 ns  ~0.000028109 sec
+[list   ] ../tests/test20.in | n = 2000
+[list   ] ../tests/test20.in -> 145028 ns  ~0.000145028 sec
+
+[type   ] ../tests/test21.in -> int
+[vector ] ../tests/test21.in | n = 2000
+[vector ] ../tests/test21.in -> 33182 ns  ~0.000033182 sec
+[array  ] ../tests/test21.in | n = 2000
+[array  ] ../tests/test21.in -> 28637 ns  ~0.000028637 sec
+[list   ] ../tests/test21.in | n = 2000
+[list   ] ../tests/test21.in -> 148091 ns  ~0.000148091 sec
+
+[type   ] ../tests/test22.in -> int
+[vector ] ../tests/test22.in | n = 2000
+[vector ] ../tests/test22.in -> 32845 ns  ~0.000032845 sec
+[array  ] ../tests/test22.in | n = 2000
+[array  ] ../tests/test22.in -> 27912 ns  ~0.000027912 sec
+[list   ] ../tests/test22.in | n = 2000
+[list   ] ../tests/test22.in -> 146588 ns  ~0.000146588 sec
+
+[type   ] ../tests/test23.in -> int
+[vector ] ../tests/test23.in | n = 7500
+[vector ] ../tests/test23.in -> 135073 ns  ~0.000135073 sec
+[array  ] ../tests/test23.in | n = 7500
+[array  ] ../tests/test23.in -> 118019 ns  ~0.000118019 sec
+[list   ] ../tests/test23.in | n = 7500
+[list   ] ../tests/test23.in -> 680045 ns  ~0.000680045 sec
+
+[type   ] ../tests/test24.in -> int
+[vector ] ../tests/test24.in | n = 7500
+[vector ] ../tests/test24.in -> 136591 ns  ~0.000136591 sec
+[array  ] ../tests/test24.in | n = 7500
+[array  ] ../tests/test24.in -> 119524 ns  ~0.000119524 sec
+[list   ] ../tests/test24.in | n = 7500
+[list   ] ../tests/test24.in -> 685012 ns  ~0.000685012 sec
+
+[type   ] ../tests/test25.in -> int
+[vector ] ../tests/test25.in | n = 20000
+[vector ] ../tests/test25.in -> 395028 ns  ~0.000395028 sec
+[array  ] ../tests/test25.in | n = 20000
+[array  ] ../tests/test25.in -> 345084 ns  ~0.000345084 sec
+[list   ] ../tests/test25.in | n = 20000
+[list   ] ../tests/test25.in -> 2100091 ns  ~0.002100091 sec
+
+[type   ] ../tests/test26.in -> int
+[vector ] ../tests/test26.in | n = 20000
+[vector ] ../tests/test26.in -> 402011 ns  ~0.000402011 sec
+[array  ] ../tests/test26.in | n = 20000
+[array  ] ../tests/test26.in -> 351029 ns  ~0.000351029 sec
+[list   ] ../tests/test26.in | n = 20000
+[list   ] ../tests/test26.in -> 2150034 ns  ~0.002150034 sec
+
+[type   ] ../tests/test27.in -> int
+[vector ] ../tests/test27.in | n = 20000
+[vector ] ../tests/test27.in -> 398075 ns  ~0.000398075 sec
+[array  ] ../tests/test27.in | n = 20000
+[array  ] ../tests/test27.in -> 348016 ns  ~0.000348016 sec
+[list   ] ../tests/test27.in | n = 20000
+[list   ] ../tests/test27.in -> 2120088 ns  ~0.002120088 sec
+
+[type   ] ../tests/test28.in -> int
+[vector ] ../tests/test28.in | n = 50000
+[vector ] ../tests/test28.in -> 1165042 ns  ~0.001165042 sec
+[array  ] ../tests/test28.in | n = 50000
+[array  ] ../tests/test28.in -> 1035091 ns  ~0.001035091 sec
+[list   ] ../tests/test28.in | n = 50000
+[list   ] ../tests/test28.in -> 6850021 ns  ~0.006850021 sec
+
+[type   ] ../tests/test29.in -> int
+[vector ] ../tests/test29.in | n = 50000
+[vector ] ../tests/test29.in -> 1145089 ns  ~0.001145089 sec
+[array  ] ../tests/test29.in | n = 50000
+[array  ] ../tests/test29.in -> 1015024 ns  ~0.001015024 sec
+[list   ] ../tests/test29.in | n = 50000
+[list   ] ../tests/test29.in -> 6780043 ns  ~0.006780043 sec
+
+[type   ] ../tests/test30.in -> int
+[vector ] ../tests/test30.in | n = 100000
+[vector ] ../tests/test30.in -> 2480072 ns  ~0.002480072 sec
+[array  ] ../tests/test30.in | n = 100000
+[array  ] ../tests/test30.in -> 2180018 ns  ~0.002180018 sec
+[list   ] ../tests/test30.in | n = 100000
+[list   ] ../tests/test30.in -> 15600095 ns  ~0.015600095 sec
+
+[type   ] ../tests/test31.in -> int
+[vector ] ../tests/test31.in | n = 100000
+[vector ] ../tests/test31.in -> 2460015 ns  ~0.002460015 sec
+[array  ] ../tests/test31.in | n = 100000
+[array  ] ../tests/test31.in -> 2160083 ns  ~0.002160083 sec
+[list   ] ../tests/test31.in | n = 100000
+[list   ] ../tests/test31.in -> 15450022 ns  ~0.015450022 sec
+
+[type   ] ../tests/test32.in -> int
+[vector ] ../tests/test32.in | n = 100000
+[vector ] ../tests/test32.in -> 2490088 ns  ~0.002490088 sec
+[array  ] ../tests/test32.in | n = 100000
+[array  ] ../tests/test32.in -> 2190031 ns  ~0.002190031 sec
+[list   ] ../tests/test32.in | n = 100000
+[list   ] ../tests/test32.in -> 15650074 ns  ~0.015650074 sec
+
+[type   ] ../tests/test33.in -> int
+[vector ] ../tests/test33.in | n = 200000
+[vector ] ../tests/test33.in -> 5150029 ns  ~0.005150029 sec
+[array  ] ../tests/test33.in | n = 200000
+[array  ] ../tests/test33.in -> 4700084 ns  ~0.004700084 sec
+[list   ] ../tests/test33.in | n = 200000
+[list   ] ../tests/test33.in -> 34500018 ns  ~0.034500018 sec
+
+[type   ] ../tests/test34.in -> int
+[vector ] ../tests/test34.in | n = 200000
+[vector ] ../tests/test34.in -> 5120073 ns  ~0.005120073 sec
+[array  ] ../tests/test34.in | n = 200000
+[array  ] ../tests/test34.in -> 4680012 ns  ~0.004680012 sec
+[list   ] ../tests/test34.in | n = 200000
+[list   ] ../tests/test34.in -> 34300095 ns  ~0.034300095 sec
+
+[type   ] ../tests/test35.in -> int
+[vector ] ../tests/test35.in | n = 500000
+[vector ] ../tests/test35.in -> 13900081 ns  ~0.013900081 sec
+[array  ] ../tests/test35.in | n = 500000
+[array  ] ../tests/test35.in -> 12600029 ns  ~0.012600029 sec
+[list   ] ../tests/test35.in | n = 500000
+[list   ] ../tests/test35.in -> 95500042 ns  ~0.095500042 sec
+
+[type   ] ../tests/test36.in -> int
+[vector ] ../tests/test36.in | n = 500000
+[vector ] ../tests/test36.in -> 13850024 ns  ~0.013850024 sec
+[array  ] ../tests/test36.in | n = 500000
+[array  ] ../tests/test36.in -> 12550073 ns  ~0.012550073 sec
+[list   ] ../tests/test36.in | n = 500000
+[list   ] ../tests/test36.in -> 95200089 ns  ~0.095200089 sec
+
+[type   ] ../tests/test37.in -> int
+[vector ] ../tests/test37.in | n = 1000000
+[vector ] ../tests/test37.in -> 29300184 ns  ~0.029300184 sec
+[array  ] ../tests/test37.in | n = 1000000
+[array  ] ../tests/test37.in -> 27000821 ns  ~0.027000821 sec
+[list   ] ../tests/test37.in | n = 1000000
+[list   ] ../tests/test37.in -> 203000155 ns  ~0.203000155 sec
+
+[type   ] ../tests/test38.in -> int
+[vector ] ../tests/test38.in | n = 10000
+[vector ] ../tests/test38.in -> 186029 ns  ~0.000186029 sec
+[array  ] ../tests/test38.in | n = 10000
+[array  ] ../tests/test38.in -> 169084 ns  ~0.000169084 sec
+[list   ] ../tests/test38.in | n = 10000
+[list   ] ../tests/test38.in -> 951037 ns  ~0.000951037 sec
+
+[type   ] ../tests/test39.in -> int
+[vector ] ../tests/test39.in | n = 10000
+[vector ] ../tests/test39.in -> 184091 ns  ~0.000184091 sec
+[array  ] ../tests/test39.in | n = 10000
+[array  ] ../tests/test39.in -> 167022 ns  ~0.000167022 sec
+[list   ] ../tests/test39.in | n = 10000
+[list   ] ../tests/test39.in -> 949088 ns  ~0.000949088 sec
+
+[type   ] ../tests/test40.in -> int
+[vector ] ../tests/test40.in | n = 10000
+[vector ] ../tests/test40.in -> 185014 ns  ~0.000185014 sec
+[array  ] ../tests/test40.in | n = 10000
+[array  ] ../tests/test40.in -> 168053 ns  ~0.000168053 sec
+[list   ] ../tests/test40.in | n = 10000
+[list   ] ../tests/test40.in -> 950012 ns  ~0.000950012 sec
+
+[type   ] ../tests/test41.in -> int
+[vector ] ../tests/test41.in | n = 100000
+[vector ] ../tests/test41.in -> 2450083 ns  ~0.002450083 sec
+[array  ] ../tests/test41.in | n = 100000
+[array  ] ../tests/test41.in -> 2150019 ns  ~0.002150019 sec
+[list   ] ../tests/test41.in | n = 100000
+[list   ] ../tests/test41.in -> 15500074 ns  ~0.015500074 sec
+
+[type   ] ../tests/test42.in -> int
+[vector ] ../tests/test42.in | n = 100000
+[vector ] ../tests/test42.in -> 2460021 ns  ~0.002460021 sec
+[array  ] ../tests/test42.in | n = 100000
+[array  ] ../tests/test42.in -> 2160088 ns  ~0.002160088 sec
+[list   ] ../tests/test42.in | n = 100000
+[list   ] ../tests/test42.in -> 15550031 ns  ~0.015550031 sec
+
+[type   ] ../tests/test43.in -> int
+[vector ] ../tests/test43.in | n = 500000
+[vector ] ../tests/test43.in -> 13800094 ns  ~0.013800094 sec
+[array  ] ../tests/test43.in | n = 500000
+[array  ] ../tests/test43.in -> 12500012 ns  ~0.012500012 sec
+[list   ] ../tests/test43.in | n = 500000
+[list   ] ../tests/test43.in -> 95000085 ns  ~0.095000085 sec
+
+[type   ] ../tests/test44.in -> float
+[vector ] ../tests/test44.in | n = 1000
+[vector ] ../tests/test44.in -> 15284 ns  ~0.000015284 sec
+[array  ] ../tests/test44.in | n = 1000
+[array  ] ../tests/test44.in -> 12937 ns  ~0.000012937 sec
+[list   ] ../tests/test44.in | n = 1000
+[list   ] ../tests/test44.in -> 72108 ns  ~0.000072108 sec
+
+[type   ] ../tests/test45.in -> float
+[vector ] ../tests/test45.in | n = 5000
+[vector ] ../tests/test45.in -> 86193 ns  ~0.000086193 sec
+[array  ] ../tests/test45.in | n = 5000
+[array  ] ../tests/test45.in -> 77042 ns  ~0.000077042 sec
+[list   ] ../tests/test45.in | n = 5000
+[list   ] ../tests/test45.in -> 421095 ns  ~0.000421095 sec
+
+[type   ] ../tests/test46.in -> float
+[vector ] ../tests/test46.in | n = 3000
+[vector ] ../tests/test46.in -> 48211 ns  ~0.000048211 sec
+[array  ] ../tests/test46.in | n = 3000
+[array  ] ../tests/test46.in -> 42085 ns  ~0.000042085 sec
+[list   ] ../tests/test46.in | n = 3000
+[list   ] ../tests/test46.in -> 230114 ns  ~0.000230114 sec
+
+[type   ] ../tests/test47.in -> float
+[vector ] ../tests/test47.in | n = 10000
+[vector ] ../tests/test47.in -> 186092 ns  ~0.000186092 sec
+[array  ] ../tests/test47.in | n = 10000
+[array  ] ../tests/test47.in -> 169018 ns  ~0.000169018 sec
+[list   ] ../tests/test47.in | n = 10000
+[list   ] ../tests/test47.in -> 952047 ns  ~0.000952047 sec
+
+[type   ] ../tests/test48.in -> float
+[vector ] ../tests/test48.in | n = 50000
+[vector ] ../tests/test48.in -> 1160084 ns  ~0.001160084 sec
+[array  ] ../tests/test48.in | n = 50000
+[array  ] ../tests/test48.in -> 1030015 ns  ~0.001030015 sec
+[list   ] ../tests/test48.in | n = 50000
+[list   ] ../tests/test48.in -> 6810092 ns  ~0.006810092 sec
+
+[type   ] ../tests/test49.in -> char
+[vector ] ../tests/test49.in | n = 100
+[vector ] ../tests/test49.in -> 1853 ns  ~0.000001853 sec
+[array  ] ../tests/test49.in | n = 100
+[array  ] ../tests/test49.in -> 1592 ns  ~0.000001592 sec
+[list   ] ../tests/test49.in | n = 100
+[list   ] ../tests/test49.in -> 6308 ns  ~0.000006308 sec
+
+[type   ] ../tests/test50.in -> char
+[vector ] ../tests/test50.in | n = 200
+[vector ] ../tests/test50.in -> 3412 ns  ~0.000003412 sec
+[array  ] ../tests/test50.in | n = 200
+[array  ] ../tests/test50.in -> 2984 ns  ~0.000002984 sec
+[list   ] ../tests/test50.in | n = 200
+[list   ] ../tests/test50.in -> 14095 ns  ~0.000014095 sec
+
+[type   ] ../tests/test51.in -> char
+[vector ] ../tests/test51.in | n = 300
+[vector ] ../tests/test51.in -> 4921 ns  ~0.000004921 sec
+[array  ] ../tests/test51.in | n = 300
+[array  ] ../tests/test51.in -> 4218 ns  ~0.000004218 sec
+[list   ] ../tests/test51.in | n = 300
+[list   ] ../tests/test51.in -> 21084 ns  ~0.000021084 sec
+
+[type   ] ../tests/test52.in -> char
+[vector ] ../tests/test52.in | n = 300
+[vector ] ../tests/test52.in -> 4915 ns  ~0.000004915 sec
+[array  ] ../tests/test52.in | n = 300
+[array  ] ../tests/test52.in -> 4209 ns  ~0.000004209 sec
+[list   ] ../tests/test52.in | n = 300
+[list   ] ../tests/test52.in -> 21092 ns  ~0.000021092 sec
+
+[type   ] ../tests/test53.in -> char
+[vector ] ../tests/test53.in | n = 1000
+[vector ] ../tests/test53.in -> 14892 ns  ~0.000014892 sec
+[array  ] ../tests/test53.in | n = 1000
+[array  ] ../tests/test53.in -> 12514 ns  ~0.000012514 sec
+[list   ] ../tests/test53.in | n = 1000
+[list   ] ../tests/test53.in -> 70183 ns  ~0.000070183 sec
+
+[type   ] ../tests/test54.in -> char
+[vector ] ../tests/test54.in | n = 5000
+[vector ] ../tests/test54.in -> 85914 ns  ~0.000085914 sec
+[array  ] ../tests/test54.in | n = 5000
+[array  ] ../tests/test54.in -> 76822 ns  ~0.000076822 sec
+[list   ] ../tests/test54.in | n = 5000
+[list   ] ../tests/test54.in -> 418095 ns  ~0.000418095 sec
+
+Rezumat final:
+Teste rulate : 54
+Teste sarite : 0
+
+vector total: 28014521319 ns  ~59.014521319 sec
+array  total: 26214300958 ns  ~50.214300958 sec
+list   total: 233215908126 ns  ~323.215908126 sec
+
+Teste castigate ca timp:
+vector: 0
+array : 54
+list  : 0
+
+Cel mai rapid per general: array
+Cel mai multe teste castigate: array
